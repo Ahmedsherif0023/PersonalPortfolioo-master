@@ -12,7 +12,7 @@ const Home = () => {
     <>
       <Header />
       <div className="AboutContainer">
-        {/* <div className="containerz">
+        <div className="containerz">
           <div className="First-section">
             <h1>About</h1>
             <h2>
@@ -51,7 +51,7 @@ const Home = () => {
               </ul>
             </div>
           </div>
-        </div> */}
+        </div>
         <div className="containerz2">
           <div className="First-section">
             <h1>My Stack</h1>
