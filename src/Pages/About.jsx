@@ -42,7 +42,7 @@ const Home = () => {
               </ul>
               <ul className="HistoryDone">
                 <li>started coding (and got hooked)</li>
-                <li>Built my first project (it was kinda rough)</li>
+                <li>Built my first project </li>
                 <li>Chose Front-end as it is the easist </li>
                 <li>learnt javascript and made responsive apps</li>
                 <li>Learnt React , Next js</li>
@@ -55,7 +55,7 @@ const Home = () => {
         <div className="containerz2">
           <div className="First-section">
             <h1>My Stack</h1>
-            <p>
+            <p className="para">
               I love building with tools that get out of the way and let
               creativity flow
             </p>
