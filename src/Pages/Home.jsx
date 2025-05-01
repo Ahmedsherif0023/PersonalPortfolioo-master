@@ -37,7 +37,7 @@ const Home = () => {
           <button className="call" onClick={handleScheduleCall}>Schedule a Call</button>
         </div>
         <div className="right-section">
-          <img src="/assets/LandingPage.png" alt="LandingPage" />
+          <img src="/assets/banner.png" alt="LandingPage" />
         </div>
       </div>
       <Footer />
