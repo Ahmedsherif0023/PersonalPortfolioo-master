@@ -1,10 +1,10 @@
 [
   {
-    "header": "React Card",
-    "image": "/assets/Barca.jpeg",
-    "description": "Barcelona is the best team in the world.",
-    "link1":"https://www.google.com",
-    "link2":"https://www.facebook.com"
+    "header": "Todo List | By Shefo" ,
+    "image": "/assets/todolist-app.png",
+    "description": "A todo-list app built with React and Redux.",
+    "link1":"https://todo-list-by-shefo.vercel.app/",
+    "link2":"https://github.com/Ahmedsherif0023/TodoList-By-Shefo.git"
   },
   {
     "header": "React Card",

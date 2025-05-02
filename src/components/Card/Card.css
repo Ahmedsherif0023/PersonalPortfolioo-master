@@ -12,7 +12,11 @@
   margin: 0; /* Remove margin since gap is used in the container */
   border-radius: 20px;
 }
-
+  
+  .projheader{
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
 .cardd:hover {
   box-shadow: 0 4px 8px rgba(0, 4, 8, 0.9);
   transform: scale(1.05);
